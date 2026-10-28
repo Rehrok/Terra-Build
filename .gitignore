@@ -1,0 +1,9 @@
+# Ignore everything by default
+/*
+
+# Do not ignore git files
+!.gitignore
+!.gitattributes
+
+# Allow .exe files in root
+!/*.exe
